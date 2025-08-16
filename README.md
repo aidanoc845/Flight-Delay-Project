@@ -22,3 +22,7 @@ Which airports have the most delays?
 Newark (EWR), Chicago Midway (MDW), and Dallas Love Field (DAL) were top delay-prone airports.
 Are delays seasonal?
 Yes. Peaks occur in July, January, and December, correlating with holiday travel and summer demand.
+
+Final Report: https://docs.google.com/document/d/12THeETg5ocJd8KmjF-7wHQ-1D7jnVFdxqU3Kf-BV54k/edit?usp=sharing
+
+Video Presentation: https://www.canva.com/design/DAGwMChu_as/g0Y3W0QPG8ojCVaVkLmNlg/view?utm_content=DAGwMChu_as&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h92a8e3d95d
